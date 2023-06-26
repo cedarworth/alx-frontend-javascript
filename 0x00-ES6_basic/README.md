@@ -1,1 +1,1 @@
-0x00. ES6 Basics Solutions
+# ALX frontend specialisation - javascript
